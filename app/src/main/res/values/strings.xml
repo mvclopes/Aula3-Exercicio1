@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">SorteioNumero</string>
+    <string name="app_name">Roleta da Sorte</string>
     <string name="escolha_um_numeno">Escolha um númeno entre 0 e 10</string>
+    <string name="digite_um_numeno">Digite um númeno entre 0 e 10</string>
     <string name="sortear">Sortear</string>
     <string name="nenhum_numero_sorteado">Nenhum número sorteado</string>
 </resources>
